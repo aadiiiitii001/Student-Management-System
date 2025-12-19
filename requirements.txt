@@ -3,3 +3,4 @@ flask-smorest==0.44.0
 flask-sqlalchemy==3.1.1
 gunicorn
 flask-jwt-extended
+python-decouple
